@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-* [How game was built](#how-game-was-built)
+* [Tests implementation](#tests-implementation)
 * [App installation](#app-installation)
 * [How to check all tests implemented](#how-to-check-all-tests-implemented)
 * [External sources](#external-sources)
