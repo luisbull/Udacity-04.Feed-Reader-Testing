@@ -39,6 +39,7 @@ To verify that test was implemented and works accurately, user can open 'js/app.
 
 
 
+
 The menu
 
 Test 'The menu is hidden by default'
@@ -64,6 +65,7 @@ Save the file and refresh the index.html file in the browser.
 
 
 
+
 Initial Entries
 
 Test 'At least one loadFeed entry inside feed container when loadFeed is called'
@@ -78,6 +80,7 @@ Save the file and refresh the index.html file in the browser.
 
 
 
+
 New Feed Selection
 
 Test 'Content changes when loadFeed is loaded'
@@ -89,6 +92,7 @@ To verify that test was implemented and works accurately, user can open 'jasmine
 	expect(feedOne === feedTwo).toBe(true);
 
 Save the file and refresh the index.html file in the browser.
+
 
 ## External sources
 
