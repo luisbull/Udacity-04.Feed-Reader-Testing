@@ -26,7 +26,7 @@ Go to: https://github.com/luisbull/udacity-feed-reader-testing.git
 
 ## How to check all tests implemented
 
-RSS feeds
+### RSS feeds
 
 Test 'All URL defined and all URL not empty'  
 
@@ -40,7 +40,7 @@ To verify that test was implemented and works accurately, user can open 'js/app.
 
 
 
-The menu
+### The menu
 
 Test 'The menu is hidden by default'
 
@@ -66,7 +66,7 @@ Save the file and refresh the index.html file in the browser.
 
 
 
-Initial Entries
+### Initial Entries
 
 Test 'At least one loadFeed entry inside feed container when loadFeed is called'
 
@@ -81,7 +81,7 @@ Save the file and refresh the index.html file in the browser.
 
 
 
-New Feed Selection
+### New Feed Selection
 
 Test 'Content changes when loadFeed is loaded'
 
