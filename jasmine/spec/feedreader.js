@@ -90,7 +90,6 @@ $(function() {
          * Remember, loadFeed() is asynchronous so this test will require
          * the use of Jasmine's beforeEach and asynchronous done() function.
          */
-        const feed = document.querySelector('.feed');
         
          beforeEach (function(done) {
             loadFeed(0, done);
